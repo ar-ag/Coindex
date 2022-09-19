@@ -15,7 +15,7 @@
  
  <hr>
  <h3> Checking the price of a crypto coin </h3>
- <p> Use <code>coindex check price --coin BTC --curr INR</code> to check the price of Bitcoin in EURO; to check for any other coin use the coin's code in place of BTC
+ <p> Use <code>coindex check price --coin BTC --curr INR</code> to check the price of Bitcoin in INR; to check for any other coin use the coin's code in place of BTC
  and to change currency use the currency code in place of INR</p>
  
  
