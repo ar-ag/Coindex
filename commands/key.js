@@ -14,7 +14,7 @@ export const key = {
             {
                 type:'input',
                 name:'key',
-                message:('Enter API key').blue+ ' https://nomics.com',
+                message:('Enter API key').blue+ ' https://www.coinapi.io/pricing?apikey',
                 validate: isRequired
             }
         ]);
@@ -55,5 +55,3 @@ export const key = {
     }
 };
 
-// module.exports = key;
-// export key;
