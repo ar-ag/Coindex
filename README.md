@@ -20,4 +20,4 @@
  
  
 ![Screenshot (21)](https://user-images.githubusercontent.com/96348217/191071829-2bf5bcdc-b09d-4918-baa7-7158cce27225.png)
-<fn>Please ignore the Experimental Warning which occurs due to use of ES-6 module for importing JSON files </fn>
+<fn>Please ignore the Experimental Warning which occur due to use of ES-6 module for importing JSON files </fn>
